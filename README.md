@@ -80,18 +80,10 @@ pip install torch torchvision numpy pandas matplotlib
 ```
 ---
 
-## Results Summary
+## 📊 Results Summary
 
-\begin{table}[h!]
-\centering
-\begin{tabular}{|l|c|c|c|c|}
-\hline
-\textbf{Model} & \textbf{Validation Loss} & \textbf{Training Accuracy} & \textbf{Validation Accuracy} & \textbf{Test Accuracy} \\
-\hline
-Unsupervised Autoencoder & $0.1066 \rightarrow 0.0661$ & --- & --- & --- \\
-Supervised Autoencoder   & ---                        & 83\% & 71.6\% & 100\% \\
-\hline
-\end{tabular}
-\caption{Performance comparison between unsupervised and supervised autoencoders on CIFAR-10.}
-\end{table}
+| Model                   | Validation Loss         | Training Accuracy | Validation Accuracy | Test Accuracy |
+|-------------------------|--------------------------|-------------------|---------------------|---------------|
+| Unsupervised Autoencoder | 0.1066 → 0.0661         | —                 | —                   | —             |
+| Supervised Autoencoder   | —                       | 83%               | 71.6%               | 100%          |
 
