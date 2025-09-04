@@ -80,7 +80,7 @@ pip install torch torchvision numpy pandas matplotlib
 ```
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Model                   | Validation Loss         | Training Accuracy | Validation Accuracy | Test Accuracy |
 |-------------------------|--------------------------|-------------------|---------------------|---------------|
