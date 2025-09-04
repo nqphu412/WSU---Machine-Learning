@@ -77,10 +77,11 @@ This notebook implements both unsupervised and supervised manifold-learning on C
 ## Requirements
 ```bash
 pip install torch torchvision numpy pandas matplotlib
-
+```
 ---
 
 ## Results Summary
+
 \begin{table}[h!]
 \centering
 \begin{tabular}{|l|c|c|c|c|}
